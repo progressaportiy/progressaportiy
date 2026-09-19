@@ -21,10 +21,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v9
         with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update contribution snake"
+          add: "dist/"
