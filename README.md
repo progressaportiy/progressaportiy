@@ -1,73 +1,68 @@
-PIHU SINGH
+<div align="center">PIHU SINGH
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Web+%26+App+Developer;Building+Clean+%26+Scalable+Solutions" />
-</p><p align="center">
-  <a href="https://github.com/progressaportiy">GitHub</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://instagram.com/mxorizz">Instagram</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://instagram.com/mxoroxy">Instagram</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://instagram.com/mxoruin">Instagram</a>
-</p>---
+Full Stack Developer · Python · Web · App
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Web+Developer;App+Developer;Building+clean+and+scalable+software" alt="Typing animation"><br><a href="https://github.com/progressaportiy">GitHub</a>
+  ·  
+<a href="https://instagram.com/mxorizz">Instagram</a>
+  ·  
+<a href="https://instagram.com/mxoroxy">Instagram</a>
+  ·  
+<a href="https://instagram.com/mxoruin">Instagram</a>
+
+</div>---
 
 About
 
-I'm a Full Stack Developer focused on Python, modern web applications, and app development.
+I'm a Full Stack Developer focused on Python, web applications, and app development.
 
-I enjoy building practical products, working with APIs and backend systems, and turning ideas into clean, functional software.
+I enjoy building practical software, working with APIs and backend systems, and turning ideas into clean and scalable applications.
 
 class PihuSingh:
-
-    role = "Full Stack Developer"
+    name = "PIHU SINGH"
+    username = "progressaportiy"
 
     focus = [
+        "Full Stack Development",
         "Python",
         "Web Development",
         "App Development",
-        "Backend & APIs"
+        "APIs"
     ]
 
-    mindset = "Build. Improve. Repeat."
+    philosophy = "Build. Improve. Repeat."
 
 ---
 
 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,androidstudio" />
-</p>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,androidstudio" /></div>---
 
 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=progressaportiy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progressaportiy&theme=github-dark&hide_border=true" height="165"/>
-</p>---
-
-Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progressaportiy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>---
+<div align="center"><img src="./profile/stats.svg" width="49%" alt="GitHub Statistics">
+<img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages"></div>---
 
 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=progressaportiy&theme=github_dark" />
-</p>---
+<div align="center"><img src="./profile/activity.svg" width="100%" alt="Contribution Activity"></div>---
 
 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/progressaportiy/progressaportiy/output/github-contribution-grid-snake.svg" />
-</p>---
+<div align="center"><img src="./output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"></div>---
 
-Profile
+Connect
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=progressaportiy&label=Profile%20Views&color=58A6FF&style=flat" />
-</p><p align="center">
-  <sub>Designed and maintained by PIHU SINGH</sub>
-</p>
+<div align="center"><a href="https://instagram.com/mxorizz">mxorizz</a>
+  ·  
+<a href="https://instagram.com/mxoroxy">mxoroxy</a>
+  ·  
+<a href="https://instagram.com/mxoruin">mxoruin</a>
+
+</div>---
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=progressaportiy&style=flat-square&label=Profile+Views&color=58A6FF" alt="Profile Views"><br><br>
+
+<sub>PIHU SINGH · Full Stack Developer</sub>
+
+</div>
